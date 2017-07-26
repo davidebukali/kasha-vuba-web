@@ -1,5 +1,5 @@
-# Kasha Vuba Web
-This repo has code for our two click order web app. 
+# kasha-vuba-web
+Simple web app to order products from Kasha Global
 
 ## Features
 - Order for feminine health products in Kigali with two clicks
